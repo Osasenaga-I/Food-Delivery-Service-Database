@@ -13,7 +13,6 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 print('connected:', db)
 
-
 # Suppress specific warning
 #warnings.filterwarnings("ignore", category=UserWarning, message="pandas only supports SQLAlchemy connectable")
 
@@ -44,7 +43,6 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
-
 # Query 2: Most Popular Restaurants
 def get_most_popular_restaurants():
     query = """
@@ -71,7 +69,6 @@ plt.title('Most Popular Restaurants')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
-
 
 # Close the cursor and connection
 cursor.close()
