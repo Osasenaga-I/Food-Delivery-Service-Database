@@ -1,0 +1,101 @@
+vehicle_id,vehicle_type,vehicle_brand,vehicle_model,color,plate_num
+1,Van,Kia,Volkswagen Passat,Navy,KMJ-241-Y
+2,Wagon,BMW,Mercedes-Benz C-Class,Turquoise,UBY-3824-SN
+3,Luxury Car,Volkswagen,Nissan Altima,Blue,FQ-948-QI
+4,Pickup,Mercedes-Benz,Subaru Outback,Brown,LVW-847-WD
+5,SUV,Hyundai,BMW 3 Series,Lime,FV-5-ZP
+6,Compact Car,Toyota,Toyota Camry,Yellow,SL-8-I
+7,Minivan,Ford,Honda Civic,Pink,Y-352-JY
+8,Van,Kia,Volkswagen Passat,Beige,MN-2-XS
+9,Hatchback,BMW,Mercedes-Benz C-Class,Navy,UJA-42-W
+10,Hatchback,Dodge,Mazda CX-5,Yellow,L-8117-A
+11,Roadster,Dodge,Mazda CX-5,Cyan,AIK-6-QK
+12,Off-Road Vehicle,Volkswagen,Nissan Altima,White,OM-9629-DW
+13,Coupe,BMW,Mercedes-Benz C-Class,Pink,SNL-53-YL
+14,Truck,Nissan,Tesla Model 3,Green,WEZ-56-SM
+15,Minivan,Jeep,Jeep Grand Cherokee,Blue,MYO-170-S
+16,SUV,Nissan,Tesla Model 3,White,V-2-F
+17,Coupe,Subaru,Audi A4,Gray,PB-3377-N
+18,Electric Car,Kia,Volkswagen Passat,Cyan,QAV-3-FL
+19,Off-Road Vehicle,Volkswagen,Nissan Altima,Maroon,HIV-5883-GB
+20,Bicycle,Jeep,Jeep Grand Cherokee,Purple,V-5638-D
+21,Hybrid,Honda,Chevrolet Malibu,Maroon,DUF-0-RV
+22,Electric Car,Ford,Honda Civic,Lime,M-2926-FZ
+23,Hybrid,Ford,Honda Civic,Blue,R-7-VM
+24,Compact Car,Volkswagen,Nissan Altima,Yellow,F-1926-S
+25,SUV,Ford,Honda Civic,Beige,CMN-17-L
+26,Hatchback,Honda,Chevrolet Malibu,Purple,HR-839-EX
+27,Electric Car,Nissan,Tesla Model 3,Turquoise,TO-4957-MQ
+28,Sedan,Mazda,Hyundai Elantra,Red,QWF-84-UE
+29,Pickup,Jeep,Jeep Grand Cherokee,Orange,LZW-902-FJ
+30,Compact Car,Subaru,Audi A4,Lime,AQU-5346-X
+31,Van,Chevrolet,Ford Explorer,White,OTY-2119-PW
+32,Bicycle,Audi,Kia Optima,Navy,UT-25-F
+33,Coupe,Mazda,Hyundai Elantra,Yellow,BKA-822-VR
+34,Off-Road Vehicle,Audi,Kia Optima,Gray,JEM-2261-UW
+35,Roadster,Dodge,Mazda CX-5,Blue,AHJ-4-WX
+36,Wagon,Nissan,Tesla Model 3,Pink,MCC-995-LI
+37,Bicycle,Volkswagen,Nissan Altima,Beige,RQK-6782-H
+38,SUV,Audi,Kia Optima,Teal,PPJ-8826-E
+39,Van,Subaru,Audi A4,Green,LW-884-G
+40,Motorcycle,Mazda,Hyundai Elantra,Gold,V-6-K
+41,Hatchback,Mercedes-Benz,Subaru Outback,Black,N-5-LB
+42,Van,Toyota,Toyota Camry,Black,XYE-1-J
+43,Convertible,Hyundai,BMW 3 Series,Green,X-34-F
+44,Sports Car,Dodge,Mazda CX-5,Red,S-48-X
+45,Truck,BMW,Mercedes-Benz C-Class,Blue,PC-7524-I
+46,Bicycle,Subaru,Audi A4,Teal,RR-1925-MW
+47,Bicycle,Honda,Chevrolet Malibu,Gold,EPQ-627-T
+48,Convertible,Jeep,Jeep Grand Cherokee,Blue,X-174-O
+49,Convertible,Kia,Volkswagen Passat,Blue,AV-9-D
+50,Truck,Volkswagen,Nissan Altima,Maroon,OLA-330-W
+51,Electric Car,Nissan,Tesla Model 3,Silver,DVQ-19-OQ
+52,Van,Chevrolet,Ford Explorer,Teal,C-712-CS
+53,Sedan,Subaru,Audi A4,Beige,DX-4-ML
+54,Roadster,Toyota,Toyota Camry,Blue,IJ-6598-X
+55,SUV,BMW,Mercedes-Benz C-Class,Blue,VLC-3128-A
+56,Sports Car,Subaru,Audi A4,Beige,AOJ-4-L
+57,Truck,Nissan,Tesla Model 3,Pink,RWG-3-R
+58,Bicycle,BMW,Mercedes-Benz C-Class,Brown,LDY-6-A
+59,SUV,Chevrolet,Ford Explorer,Teal,OGZ-396-JR
+60,Hybrid,Jeep,Jeep Grand Cherokee,Blue,F-8-N
+61,Sports Car,Ford,Honda Civic,Gray,KXR-931-K
+62,SUV,Mazda,Hyundai Elantra,Orange,AET-2-M
+63,SUV,Subaru,Audi A4,Lime,WV-17-SH
+64,Van,Mercedes-Benz,Subaru Outback,Gray,SZS-9960-AI
+65,Bicycle,Chevrolet,Ford Explorer,Silver,DH-859-U
+66,SUV,Kia,Volkswagen Passat,Green,XD-5095-G
+67,Compact Car,Chevrolet,Ford Explorer,Navy,RC-6348-Z
+68,Minivan,Ford,Honda Civic,Green,ZNS-812-M
+69,Truck,Mazda,Hyundai Elantra,Gold,TZQ-27-L
+70,Coupe,BMW,Mercedes-Benz C-Class,White,F-624-A
+71,SUV,Toyota,Toyota Camry,Gray,BS-1416-S
+72,Van,Kia,Volkswagen Passat,Blue,HGK-0087-M
+73,Minivan,Toyota,Toyota Camry,Gold,E-353-D
+74,Truck,Ford,Honda Civic,Orange,FZB-457-H
+75,Off-Road Vehicle,Mercedes-Benz,Subaru Outback,Yellow,EHF-34-B
+76,Truck,Chevrolet,Ford Explorer,Green,WG-509-Y
+77,Pickup,Mazda,Hyundai Elantra,Cyan,VJZ-107-GW
+78,Roadster,Toyota,Toyota Camry,Green,RFW-6706-L
+79,Hatchback,Toyota,Toyota Camry,Gray,U-34-C
+80,Coupe,Audi,Kia Optima,White,DYJ-0-HM
+81,Motorcycle,Dodge,Mazda CX-5,Gold,E-3-N
+82,Compact Car,Chevrolet,Ford Explorer,Brown,BSX-299-G
+83,SUV,Mercedes-Benz,Subaru Outback,Lime,GTO-390-K
+84,Sports Car,Subaru,Audi A4,Pink,NEE-371-YJ
+85,SUV,Ford,Honda Civic,Orange,SZW-1-H
+86,SUV,Ford,Honda Civic,Blue,HRA-896-LB
+87,Bicycle,Subaru,Audi A4,Teal,MI-4216-BY
+88,Sedan,Hyundai,BMW 3 Series,Orange,DPU-310-F
+89,Motorcycle,BMW,Mercedes-Benz C-Class,Turquoise,D-28-I
+90,Compact Car,Dodge,Mazda CX-5,Blue,H-2740-VL
+91,Convertible,Dodge,Mazda CX-5,Gold,XTL-21-P
+92,Truck,Jeep,Jeep Grand Cherokee,Red,D-16-QQ
+93,Electric Car,Subaru,Audi A4,Beige,EE-1026-RO
+94,Motorcycle,Nissan,Tesla Model 3,Lime,M-360-C
+95,Luxury Car,Hyundai,BMW 3 Series,Green,RU-0359-AX
+96,Convertible,Dodge,Mazda CX-5,Black,N-7-B
+97,Van,Nissan,Tesla Model 3,Brown,FQH-55-UQ
+98,Pickup,Honda,Chevrolet Malibu,Turquoise,G-389-F
+99,Wagon,Dodge,Mazda CX-5,Black,PQ-8056-F
+100,Bicycle,Volkswagen,Nissan Altima,Beige,ZMH-2335-TB

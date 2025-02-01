@@ -1,0 +1,101 @@
+address_id,street_address,city,state,zip_code,country
+1,12806 St. Andrews Blvd.,Honolulu,Hawaii,96820,United States
+2,5208 Belle Grove Drive,Littleton,Colorado,80127,United States
+3,2738 Tate Gregory Court,Boston,Massachusetts,02119,United States
+4,6903 Holley Terrace,Los Angeles,California,90065,United States
+5,1310 Midnight Pass Court,Kansas City,Missouri,64187,United States
+6,8032 Corsair Court,Lincoln,Nebraska,68517,United States
+7,8766 Zina Lane,Albany,New York,12227,United States
+8,9376 Hackney Place,El Paso,Texas,79945,United States
+9,12702 Linley Loop,Houston,Texas,77266,United States
+10,13260 Berman Court,Augusta,Georgia,30919,United States
+11,9685 Moncada Lane,Albany,New York,12205,United States
+12,4988 Ventura Drive,Sarasota,Florida,34233,United States
+13,9355 West Schwartz Blvd.,Dallas,Texas,75358,United States
+14,4518 Demarco Drive,Washington,District of Columbia,20551,United States
+15,12567 Stratford Lane,Lexington,Kentucky,40515,United States
+16,3746 Cromer Place,Charleston,West Virginia,25313,United States
+17,3387 Mceldowney Place,Kansas City,Missouri,64136,United States
+18,6404 Mathews Lane,Toledo,Ohio,43615,United States
+19,14861 Abaco Path,Pittsburgh,Pennsylvania,15250,United States
+20,7998 Judge Place,Reno,Nevada,89519,United States
+21,10659 Whitney Way,Lubbock,Texas,79410,United States
+22,11441 Oak Lane,Fort Wayne,Indiana,46867,United States
+23,9319 Marrot Terrace,Miami,Florida,33124,United States
+24,13385 Ambrosia Place,Orlando,Florida,32859,United States
+25,5994 Ridgeville Road,Washington,District of Columbia,20430,United States
+26,4012 Hollis Way,Littleton,Colorado,80161,United States
+27,4292 Endicott Way,Newark,New Jersey,07104,United States
+28,3289 Kettle Loop,Huntington,West Virginia,25770,United States
+29,2725 Heathrow Avenue,Minneapolis,Minnesota,55487,United States
+30,7852 Freddie Lane,Erie,Pennsylvania,16534,United States
+31,8933 Miranda Way,Anchorage,Alaska,99512,United States
+32,14963 Rojas Place,Washington,District of Columbia,20244,United States
+33,10645 Reston Drive,Green Bay,Wisconsin,54305,United States
+34,7736 Diver Loop,Washington,District of Columbia,20456,United States
+35,11128 Estill Avenue,Sacramento,California,94237,United States
+36,13 Vail Court,Charleston,West Virginia,25389,United States
+37,3158 La Estrellita Way,Jackson,Mississippi,39282,United States
+38,14696 Jared Terrace,Charleston,West Virginia,25336,United States
+39,5883 Jennings Court,Lubbock,Texas,79415,United States
+40,3309 Flowersville Place,Boca Raton,Florida,33499,United States
+41,1671 Saffold Street,New York City,New York,10165,United States
+42,11365 Jeff Anderson Way,San Antonio,Texas,78285,United States
+43,14918 Delia Place,Modesto,California,95397,United States
+44,8284 Carriage Hill Way,Wichita,Kansas,67230,United States
+45,14894 Glen Ridge Court,Denver,Colorado,80217,United States
+46,13396 Kanawha Place,New Orleans,Louisiana,70116,United States
+47,3523 Mountville Court,Bronx,New York,10469,United States
+48,9913 Mulberry Lane,Mobile,Alabama,36670,United States
+49,13606 Maxwell Terrace,Springfield,Ohio,45505,United States
+50,1382 McKnight Loop,Southfield,Michigan,48076,United States
+51,6359 Hodges Lane,Fredericksburg,Virginia,22405,United States
+52,2597 Parker Place,San Antonio,Texas,78296,United States
+53,6737 Barron Place,Nashville,Tennessee,37228,United States
+54,9457 Guerard Avenue,New York City,New York,10203,United States
+55,282 Tallowtree Drive,Boise,Idaho,83705,United States
+56,10636 Placida Terrace,Montgomery,Alabama,36114,United States
+57,7570 Rain Lily Loop,Roanoke,Virginia,24048,United States
+58,13995 Brooke Lane,Kent,Washington,98042,United States
+59,13622 Orwell Street,Fort Wayne,Indiana,46852,United States
+60,12044 Gray Court,Boston,Massachusetts,02203,United States
+61,9945 Retford Terrace,Brooklyn,New York,11247,United States
+62,5414 Saffold Street,Hialeah,Florida,33018,United States
+63,317 Laurel Lane,Los Angeles,California,90081,United States
+64,14317 Independence Path,Akron,Ohio,44329,United States
+65,14409 Flemings Place,Los Angeles,California,90071,United States
+66,5968 Munford Terrace,Fort Worth,Texas,76162,United States
+67,6928 Deuberry Terrace,Lincoln,Nebraska,68531,United States
+68,9538 Coffman Loop,Spartanburg,South Carolina,29319,United States
+69,3809 Reedy Creek Place,Chicago,Illinois,60619,United States
+70,1331 Beachwood Street,Washington,District of Columbia,20005,United States
+71,10219 Sea Grapes Way,Newark,Delaware,19714,United States
+72,1320 Cadena Circle,Raleigh,North Carolina,27621,United States
+73,12945 Mansfield Street,Baton Rouge,Louisiana,70810,United States
+74,7700 Geiger Lane,Duluth,Georgia,30096,United States
+75,8786 Delgado Avenue,Phoenix,Arizona,85099,United States
+76,11741 Beecher Path,Albuquerque,New Mexico,87195,United States
+77,5554 Foust Place,New Orleans,Louisiana,70179,United States
+78,2972 Jameston Avenue,Prescott,Arizona,86305,United States
+79,6091 Peakman Road,New Haven,Connecticut,06533,United States
+80,3454 Gammon Court,New Brunswick,New Jersey,08922,United States
+81,8625 Belle Glade Avenue,Norman,Oklahoma,73071,United States
+82,6609 Heathrow Avenue,Richmond,Virginia,23220,United States
+83,5048 Townsend Terrace,Sacramento,California,95823,United States
+84,652 Presenti Court,Atlanta,Georgia,30316,United States
+85,9094 Fritillary Terrace,Hamilton,Ohio,45020,United States
+86,6806 Birdsong Place,Anchorage,Alaska,99507,United States
+87,662 La France Court,Roanoke,Virginia,24048,United States
+88,2888 Universal Avenue,Toledo,Ohio,43610,United States
+89,8931 Donelin Circle,Lawrenceville,Georgia,30245,United States
+90,10739 Hollow Branch Way,Salt Lake City,Utah,84105,United States
+91,14198 Loadstar Avenue,Brooklyn,New York,11254,United States
+92,1768 Kassel Place,Hyattsville,Maryland,20784,United States
+93,4832 San Jose Place,San Diego,California,92137,United States
+94,10610 Lockhart Avenue,New Haven,Connecticut,06505,United States
+95,5 Luna Lane,Jacksonville,Florida,32236,United States
+96,14318 Cousino Court,Seattle,Washington,98140,United States
+97,10648 Cross Hill Drive,Baton Rouge,Louisiana,70894,United States
+98,5080 Sanderling Street,Toledo,Ohio,43666,United States
+99,13747 Netherton Lane,Monticello,Minnesota,55565,United States
+100,9545 Grapeland Street,Rochester,New York,14639,United States
